@@ -15,8 +15,8 @@
                 </div>
             </div>
             <div class="text-center">
-                <a target="_blank" href="${project.detail}" type="button" class="btn btn-info">Read more</a>
-                <a href="${project.link}" type="button" class="btn btn-outline-warning">Demo</a>
+                <a target="_blank" href="${project.detail}" type="button" class="btn btn-info ${project.detail ? "" : "disabled"}">Read more</a>
+                <a target="_blank" href="${project.link}" type="button" class="btn btn-outline-warning ${project.link ? "" : "disabled"}">Demo</a>
             </div>
         </div>    
         `)
