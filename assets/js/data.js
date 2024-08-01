@@ -52,7 +52,7 @@ const project_data = [
         "description": "The Selfhosted LLM model is designed to support thousands of LoRa connections simultaneously, ensuring robust and scalable performance.",
         "icon": "https://cdn.prod.website-files.com/6082f2094ccb2d6ff32eb5d8/65325315a9d2e2a0e3efa52e_LLM%20Optimization%20Parameters.png",
         "detail": "https://paradoxai.atlassian.net/wiki/spaces/TECH/pages/2887352435/PARADOX+-+LLM+PROXY",
-        "link": "",
+        "link": "https://llmdify-regional-dev-use1.paradox.sdm.network/chat/9pZegzBCO193CHnV",
         "tags": ["LLM", "Released"]
     },
     {
