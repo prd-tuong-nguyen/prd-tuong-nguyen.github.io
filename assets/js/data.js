@@ -92,7 +92,7 @@ const project_data = [
     {
         "name": "Sentiment Analysis",
         "description": "The sentiment analysis service is designed to analyze and classify the sentiment of text data, providing valuable insights for improving customer satisfaction and engagement.",
-        "icon": "https://analytx4t.com/wp-content/uploads/2019/12/4-1-6.png",
+        "icon": "https://cdn-icons-png.flaticon.com/512/12373/12373911.png",
         "detail": "https://paradoxai.atlassian.net/wiki/spaces/TECH/pages/3048800327/Sentiment+Analysis+tool",
         "link": "https://tool-rasa-k8s-dev-use1.paradox.sdm.network/apps/get/f/demo/sentiment_analysis",
         "tags": ["Data visualization", "Evaluation", "Prototype"]
