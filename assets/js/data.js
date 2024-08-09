@@ -28,7 +28,7 @@ const project_data = [
         "description": "The PDF Parser Service is designed to extract text from PDFs while preserving the document's original structure and layout.",
         "icon": "https://editor.analyticsvidhya.com/uploads/51130download.png",
         "detail": "https://paradoxai.atlassian.net/wiki/spaces/TECH/pages/2956329153/PDF+Parser+Enhance+extracting+Result+from+PDF+file",
-        "link": "",
+        "link": "https://tool-rasa-k8s-dev-use1.paradox.sdm.network/public/ai-team/3e25c20d6a3147b6df87820eee9f4705",
         "tags": ["Computer vision", "Prototype"]
     },
     {
