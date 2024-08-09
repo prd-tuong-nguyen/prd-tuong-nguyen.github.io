@@ -269,7 +269,7 @@ const append_personal_information = `<div data-testid="candidate_inbox_profile_c
             <div class="card border-info mb-3" style="max-width: 18rem;">
                 <div class="card-header">Interview question</div>
                 <div class="card-body">
-                <h5 class="card-title tech-insight text-success"><i class="fa-solid fa-receipt"></i>${content}</h5>
+                <p class="card-title tech-insight text-success font-weight-bold"><i class="fa-solid fa-receipt"></i>${content}</p>
                 <p class="card-text tech-question"><i class="fa-regular fa-circle-question"></i>${question}</p>
                 </div>
                 <div class="card-footer text-right">
