@@ -95,7 +95,7 @@ const append_personal_information = `<div data-testid="candidate_inbox_profile_c
         $.LoadingOverlay("show");
         const formData = new FormData();
         formData.append('file', file);
-        formData.append('key', "438a4129-b2e0-4ba1-a562-628408a278fa");
+        formData.append('key', "b38351e7-0bbc-4149-b666-9de64fba17ac");
 
         axios.post('https://selectpdf.com/api2/pdftotext/', formData, {
             headers: {
