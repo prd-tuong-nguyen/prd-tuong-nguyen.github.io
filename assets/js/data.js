@@ -19,7 +19,7 @@ const project_data = [
         "name": "Content Parser",
         "description": "The Content Parser Service is designed to read and analyze documents and generates question and answer pairs from the content, making it easier to understand and utilize the information within the documents.",
         "icon": "https://pandermatt.ch/multilingual-question-generation/flan-logo.png",
-        "detail": "https://drive.google.com/file/d/18_GZYsp9UU1L10i_SfnOwQjz6ITsdI3l/view",
+        "detail": "https://paradoxai.atlassian.net/wiki/spaces/TECH/pages/3085074554/Content+Parser",
         "link": "",
         "tags": ["LLM", "Pipeline", "Released"]
     },
